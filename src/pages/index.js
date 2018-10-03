@@ -8,7 +8,7 @@ import Layout from '../components/layout'
 const IndexPage = () => (
   <Layout>
     <h1>Hello there!</h1>
-    <p>I'm looking forward to participate in <a href="https://hackathon.freecodecamp.org/">freeCodeCamp JAMstack Hackathon</a></p>
+    <p>I'm looking forward to participate in <a href="https://hackathon.freecodecamp.org/">freeCodeCamp JAMstack Hackathon</a>.</p>
     <p><a href="‎https://twitter.com/jamstackconf">@jamstackconf</a> twitter feed below👇</p>
     <Timeline
     dataSource={{
